@@ -235,8 +235,8 @@ export default function NavBar({ className = '', hideLogo = false }: NavBarProps
             />
 
             <GithubButton
-              text='Star on GitHub'
-              href='https://github.com/asyncapi/spec'
+              text='on github'
+              href='https://github.com/asyncapi/website'
               className='ml-2 py-2'
               inNav={true}
             />
